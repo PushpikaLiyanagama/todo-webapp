@@ -48,7 +48,7 @@ A task manager built with Laravel and Breeze, allowing users to register, log in
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-todo-app.git
+git clone [https://github.com/your-username/your-todo-app.git](https://github.com/PushpikaLiyanagama/todo-webapp)
 cd your-todo-app
 ```
 
