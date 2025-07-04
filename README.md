@@ -45,15 +45,10 @@ A task manager built with Laravel and Breeze, allowing users to register, log in
 
 ## ⚙️ Installation
 
-### 1. Clone the repository
-
-```bash
-<<<<<<< HEAD
-git clone git clone https://github.com/PushpikaLiyanagama/todo-webapp.git
-=======
-git clone [https://github.com/your-username/your-todo-app.git](https://github.com/PushpikaLiyanagama/todo-webapp)
->>>>>>> 501e1f2065eb768400011eb740cb9b817df77e40
-cd your-todo-app
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/PushpikaLiyanagama/todo-webapp.git
+   cd todo-webapp
 ```
 
 ### 2. Install dependencies
